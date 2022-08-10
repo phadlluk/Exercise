@@ -9,7 +9,7 @@ console.log(quote);
 // 3.
 let string = "10";
 let num = 10;
-console.log(string == num);
+console.log(parseInt(string) === num);
 // 4.
 let number = parseFloat(9.8);
 console.log(Math.round(number));
